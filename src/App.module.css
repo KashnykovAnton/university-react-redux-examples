@@ -1,0 +1,10 @@
+.DivStyles {
+  height: '100vh';
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+  padding: 40px;
+  font-size: 40;
+  text-align: center;
+  color: '#010101';
+}

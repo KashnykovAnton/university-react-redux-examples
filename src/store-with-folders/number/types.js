@@ -1,0 +1,2 @@
+export const CREATE_NUMBER = 'CREATE_NUMBER';
+export const DELETE_NUMBER = 'DELETE_NUMBER';
